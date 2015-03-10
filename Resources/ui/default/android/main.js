@@ -1,6 +1,6 @@
 function mainUI() {
 	var mainView = Ti.UI.createView();
-	
+
 	return mainView;
 };
 
