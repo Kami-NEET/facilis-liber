@@ -1,3 +1,9 @@
 {
-	"serverDNS": "http://www.google.com"
+	"serverDNS": "http://www.google.com",
+	"expasionFile": {
+		"mainFile": {
+			"version": 2,
+			"size": 12001918
+		}
+	}
 }
